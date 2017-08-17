@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Welcome! - Yitong's Homepage
 
 Hi, I am Yitong Chen (桶子), a Master of CS student at University of Melbourne, Australia. Now I am working on the topic about NIRS, with supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/)
 
