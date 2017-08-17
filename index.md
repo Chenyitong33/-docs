@@ -2,7 +2,7 @@
 
 Hi, I am Yitong Chen (Frankie), a Master of CS student at University of Melbourne, Australia. Now I am working on the topic about NIRS, with supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/).
 
-Research Interests: Maching learning, Computer graphics, HCI, NIRS.
+Research Interests: Maching Learning, Computer Graphics, HCI, NIRS.
 
 Email: yitongc@student.unimelb.edu.au
 
