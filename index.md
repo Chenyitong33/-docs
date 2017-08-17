@@ -8,7 +8,7 @@ Email: yitongc@student.unimelb.edu.au
 
 You can contact me if have any interest.
 
-Related Links: [Interaction Design Lab](http://www.cis.unimelb.edu.au/research/groups/interaction-design/)|[linkedin](https://www.linkedin.com/in/%E6%80%A1%E6%A1%90-%E9%99%88-34866b133/)|[facebook](https://www.facebook.com/profile.php?id=100005733581445)
+Related Links: [Interaction Design Lab](http://www.cis.unimelb.edu.au/research/groups/interaction-design/)| [Linkedin](https://www.linkedin.com/in/%E6%80%A1%E6%A1%90-%E9%99%88-34866b133/)| [facebook](https://www.facebook.com/profile.php?id=100005733581445)
 
 
 
