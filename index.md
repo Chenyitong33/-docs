@@ -1,10 +1,11 @@
 # Welcome! - Yitong's Homepage
 
-Hi, I am Yitong Chen (桶子), a Master of CS student at University of Melbourne, Australia. Now I am working on the topic about NIRS, with supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/).
+Hi, I am Yitong Chen (Frankie), a Master of CS student at University of Melbourne, Australia. Now I am working on the topic about NIRS, with supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/).
 
 Research Interests: Maching learning, Computer graphics, HCI, NIRS.
 
 Email: yitongc@student.unimelb.edu.au
+Wechat: cyt18063877076
 
 Contact me if you have any interest.
 
