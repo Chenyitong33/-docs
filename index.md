@@ -1,6 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Chenyitong33/yitong.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am Yitong Chen (桶子), a Master of CS student at University of Melbourne, Australia. Now I am working on the topic about NIRS, with supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/)
+
+Research Interest: Maching learning, Computer graphics, HCI, NIRS.
+
+Email: yitongc@student.unimelb.edu.au
+
+You can contact me if have any interest.
+
+Related Links: [Interaction Design Lab](http://www.cis.unimelb.edu.au/research/groups/interaction-design/)
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
