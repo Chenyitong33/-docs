@@ -13,7 +13,3 @@ Contact me if you have any interest.
 Related Links: [Linkedin](https://www.linkedin.com/in/%E6%80%A1%E6%A1%90-%E9%99%88-34866b133/) \| [Facebook](https://www.facebook.com/profile.php?id=100005733581445)
 
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
