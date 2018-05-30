@@ -1,6 +1,6 @@
 # Welcome! - Yitong's Homepage
 
-Hi, I am Yitong Chen (Frankie), a Master of CS student at University of Melbourne, Australia. Now I am working on the topic about NIRS with supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/), based in the [SocialNUI Lab](http://socialnui.unimelb.edu.au/).
+Hi, I am Yitong Chen, a Master of CS student at University of Melbourne, Australia. Now I am working on the topic about NIRS with supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/), based in the [SocialNUI Lab](http://socialnui.unimelb.edu.au/).
 
 Research Interests: NIRS, Maching Learning, Computer Graphics and Interaction.
 
