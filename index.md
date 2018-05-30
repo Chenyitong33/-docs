@@ -12,4 +12,3 @@ Some projects are shown in my github, contact me without hesitateif you have any
 
 Related Links: [Linkedin](https://www.linkedin.com/in/%E6%80%A1%E6%A1%90-%E9%99%88-34866b133/) \| [Facebook](https://www.facebook.com/profile.php?id=100005733581445)
 
-
