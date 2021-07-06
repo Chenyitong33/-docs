@@ -7,7 +7,6 @@ Our [work](https://smarthospital.research.unimelb.edu.au/smart-pillbox/) is publ
 Research Interests: NIRS, Maching Learning, Computer Graphics and Interaction.
 
 Email: 18063877076@163.com
-Wechat: cyt18063877076
-
+Wechat: Old_Bucket
 Related Links: [Linkedin](https://www.linkedin.com/in/%E6%80%A1%E6%A1%90-%E9%99%88-34866b133/) \| [CSDN](https://blog.csdn.net/qq_24587185)
 
